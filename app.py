@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # ========================================================
 # NOME DA EQUIPE (Altere para testar o CI/CD!)
-EQUIPE = "Equipe Ytalo, Brenner e Daniel"
+EQUIPE = "Equipe Ytalo, Brenner e Daniel."
 # ========================================================
 
 def obter_conselho_devops():
